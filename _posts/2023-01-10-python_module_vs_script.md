@@ -4,11 +4,12 @@ date: 2023-01-10
 ---
 
 
-# <div align="center"> Python Module vs Python Script </div>
-#### <div align="center"> why is this a thing?</div>
-<div align="center">
-    <img src="../images/earth_rise.jpg">
-</div>
+# Python Module vs Python Script 
+
+#### why is this a thing?
+
+![](../images/earth_rise.jpg)
+
 
 # Motivation:
 I am working on debugging a dirty github repo because I promised someone that we could use this code for identifiying animals using ML.
